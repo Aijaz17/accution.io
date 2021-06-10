@@ -1,0 +1,34 @@
+body
+{
+	background-color: #f3f6fd;
+}
+section.current-auc  .row
+{
+
+}
+section.current-auc a
+{
+	text-align: center;
+	font-size: 35px;
+	text-decoration: none !important;
+	color: red;
+
+
+}
+section.current-auc  .container img
+{
+	padding: 10px;
+	width: 100%;
+	white-space:
+}
+section.current-auc .bt button
+{
+	background-color:green;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	border-color: cyan;
+	border-radius: 5px dotted ;
+
+
+}
